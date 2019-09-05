@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "licensezero": [
+    {
+      "agentSignature": "00298f9dda24c3319afe6b3a509437b6043172bf5900aad2fee0551de91614bcb44da4024d15bad3fe561680535d499c09808f4c65a70d55abdbb479b0fa0802",
+      "license": {
+        "homepage": "https://github.com/mgattozzi/cargo-lit",
+        "jurisdiction": "US-MA",
+        "name": "Michael Gattozzi",
+        "projectID": "5a776d4c-f07a-4ff9-9efe-27cac2f360bc",
+        "publicKey": "c4785c8021ab693e040dfcf4e4eba9ce2e1950bad547853240635f8282f6b3ad",
+        "terms": "prosperity",
+        "version": "2.0.0"
+      },
+      "licensorSignature": "b310f8560d554243bb86e5fbc8a19cc4815b8fbe61e941c5de8b265489c6d63f906dc6da24a3e530057846813eafe81bac6e383b58c1f6d198ea73ace600a408"
+    }
+  ]
+}

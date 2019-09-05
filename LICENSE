@@ -1,0 +1,54 @@
+The Prosperity Public License 2.0.0
+
+Contributor: Michael Gattozzi
+
+Source Code: https://github.com/mgattozzi/cargo-lit
+
+This license lets you use and share this software for free,
+with a trial-length time limit on commercial use. Specifically:
+
+If you follow the rules below, you may do everything with this
+software that would otherwise infringe either the contributor's
+copyright in it, any patent claim the contributor can license
+that covers this software as of the contributor's latest
+contribution, or both.
+
+1. You must limit use of this software in any manner primarily
+   intended for or directed toward commercial advantage or
+   private monetary compensation to a trial period of 32
+   consecutive calendar days. This limit does not apply to use in
+   developing feedback, modifications, or extensions that you
+   contribute back to those giving this license.
+
+2. Ensure everyone who gets a copy of this software from you, in
+   source code or any other form, gets the text of this license
+   and the contributor and source code lines above.
+
+3. Do not make any legal claim against anyone for infringing any
+   patent claim they would infringe by using this software alone,
+   accusing this software, with or without changes, alone or as
+   part of a larger application.
+
+You are excused for unknowingly breaking rule 1 if you stop
+doing anything requiring this license within 30 days of
+learning you broke the rule.
+
+**This software comes as is, without any warranty at all. As far
+as the law allows, the contributor will not be liable for any
+damages related to this software or this license, for any kind of
+legal claim.**
+
+
+---
+
+Licensor Signature (Ed25519):
+
+3798fcec60730ba4434cdfdbc3356eedc5301275f713297a351ff292c23573ef
+0370faec0294fba57153b032f1dcdb108ec7cfd47f2246694e9a445974f8c400
+
+---
+
+Agent Signature (Ed25519):
+
+b71e688937d01f7c78249a63893307debaf0010c051931558269ffc951c5bc21
+b6e2f84c8eb52a281411f026e907b125fd94badb11ebafa4ece62bb192c46b02
